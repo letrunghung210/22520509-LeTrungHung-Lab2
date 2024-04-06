@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|c:\\users\\asus\\desktop\\22520173-luuquoccuong-lab2\\lab2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C08AF14-B023-4853-860B-BE249A2687A1}|Lab2.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai7.cs",
+              "RelativeDocumentMoniker": "Bai7.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai7.cs",
+              "RelativeToolTip": "Bai7.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:27:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai7.cs",
+              "RelativeDocumentMoniker": "Bai7.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai7.cs [Design]",
+              "RelativeToolTip": "Bai7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:27:41.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai6.cs",
+              "RelativeDocumentMoniker": "Bai6.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai6.cs [Design]",
+              "RelativeToolTip": "Bai6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:23:36.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai5.cs",
+              "RelativeDocumentMoniker": "Bai5.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai5.cs",
+              "RelativeToolTip": "Bai5.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:25:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai5.cs",
+              "RelativeDocumentMoniker": "Bai5.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai5.cs [Design]",
+              "RelativeToolTip": "Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:07:21.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:23:51.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai1.cs",
+              "RelativeDocumentMoniker": "Bai1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai1.cs",
+              "RelativeToolTip": "Bai1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:53:22.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai6.cs",
+              "RelativeDocumentMoniker": "Bai6.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Bai6.cs",
+              "RelativeToolTip": "Bai6.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:53:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\22520173-LuuQuocCuong-Lab2\\Lab2\\Menu.cs [Design]",
+              "RelativeToolTip": "Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:44:05.197Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

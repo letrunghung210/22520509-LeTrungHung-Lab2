@@ -1,0 +1,6 @@
+Phim: 'Spider-Man: No Way Home'
+Vé bán ra: 30
+Vé tồn: 10
+Tỉ lệ vé bán ra: 0.75
+Doanh thu: 3000000
+Xếp hạng: 2

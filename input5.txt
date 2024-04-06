@@ -1,0 +1,32 @@
+[
+  {
+    "TenPhim": "Spider-Man: No Way Home",
+    "GiaVeChuan": 100000,
+    "PhongChieu": [1, 3, 5],
+    "SoVeBanRa": 30,
+    "SoVeTon": 10,
+    "TiLeVeBanRa": 0,
+    "DoanhThu": 0,
+    "XepHang": 2
+  },
+  {
+    "TenPhim": "The Batman",
+    "GiaVeChuan": 90000,
+    "PhongChieu": [2, 4],
+    "SoVeBanRa": 80,
+    "SoVeTon": 20,
+    "TiLeVeBanRa": 0,
+    "DoanhThu": 0,
+    "XepHang": 1
+  },
+  {
+    "TenPhim": "Logan",
+    "GiaVeChuan": 70000,
+    "PhongChieu": [1, 4],
+    "SoVeBanRa": 20,
+    "SoVeTon": 4,
+    "TiLeVeBanRa": 0,
+    "DoanhThu": 0,
+    "XepHang": 3
+  }
+]
